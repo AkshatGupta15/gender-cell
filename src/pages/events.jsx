@@ -4,15 +4,17 @@ import BannerCard from '../components/Card/BannerCard';
 import { useState, useRef } from "react";
 import { BsArrowLeftShort, BsArrowRightShort } from "react-icons/bs";
 import { Fade } from "react-awesome-reveal";
-import womensDay1 from '../assets/images/talk4.jpg';
-import womensDay2 from '../assets/images/talk5.jpg';
-import womensDay3 from '../assets/images/talk6.jpg';
-import runwalk1 from '../assets/images_events/run_walk1.jpg';
-import runwalk2 from '../assets/images_events/run_walk2.jpg';
-import runwalk3 from '../assets/images_events/run_walk3.jpg';
-import movie_screening1 from '../assets/images_events/movie1.jpg';
-import movie_screening2 from '../assets/images_events/movie2.jpg';
-import movie_screening3 from '../assets/images_events/movie2.jpg';
+// import '../../public/assets'
+import '../../public/assets/images_events/movie1.jpg'
+import womensDay1 from '../../public/assets/images/talk4.jpg';
+import womensDay2 from '../../public/assets/images/talk5.jpg';
+import womensDay3 from '../../public/assets/images/talk6.jpg';
+import runwalk1 from '../../public/assets/images_events/run_walk1.jpg';
+import runwalk2 from '../../public/assets/images_events/run_walk2.jpg';
+import runwalk3 from '../../public/assets/images_events/run_walk3.jpg';
+import movie_screening1 from '../../public/assets/images_events/movie1.jpg';
+import movie_screening2 from '../../public/assets/images_events/movie2.jpg';
+import movie_screening3 from '../../public/assets/images_events/movie3.jpg';
 import LinksSection from "../components/Linkscard/LinkCard";
 
 const EventsPage = () => {

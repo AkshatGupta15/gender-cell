@@ -1,5 +1,5 @@
-import logo from "../../assets/images/logo_gc_new.png"
-import logo_dark from "../../assets/images/logo-iitk-dark.png"
+import logo from "../../../public/assets/images/logo_gc_new.png"
+import logo_dark from "../../../public/assets/images/logo-iitk-dark.png"
 
 export const Footer = () => {
   return (

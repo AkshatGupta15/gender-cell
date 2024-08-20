@@ -1,7 +1,7 @@
 // src/components/Loader.js
 import React from 'react';
 import '../css/Loader.css'; // Ensure this path is correct
-import logo from '../assets/images/logo-gc.png';
+import logo from '../../public/assets/images/logo-gc.png';
 const Loader = () => (
   <div id="page">
     <div id="container">

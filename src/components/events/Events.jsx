@@ -1,5 +1,5 @@
 
-import movie1 from '../../assets/images_events/movie3.jpg'
+import movie1 from '../../../public/assets/images_events/movie3.jpg'
 const Events = () => {
   return (
     <div style={{backgroundColor : '#ffe5d9', paddingTop:'46px' ,height:'max-content', paddingBottom:'10px' }}>

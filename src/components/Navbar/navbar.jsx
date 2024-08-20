@@ -1,6 +1,6 @@
 import { useState } from "react";
-import logo from "../../assets/images/logo_gc_new.png";
-import logo_iitk from "../../assets/images/logo-iitk.png";
+import logo from "../../../public/assets/images/logo_gc_new.png";
+import logo_iitk from "../../../public/assets/images/logo-iitk.png";
 import { useLocation } from "react-router-dom";
 function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);

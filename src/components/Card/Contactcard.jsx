@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../css/About.css'; // Import the CSS file
-import profile from '../../assets/images/profile.png';
+import profile from '../../../public/assets/images/profile.png'
+// import profile from '../../public/assets/images/profile.png';
 import { FaPhone } from 'react-icons/fa';
 import { AiOutlineMail } from 'react-icons/ai';
 const ContactCard = ({ name, designation, post,email, phone }) => {

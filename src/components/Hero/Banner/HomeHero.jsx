@@ -1,21 +1,21 @@
 import { motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-import womensDay1 from "../../../assets/images_events/womens_day1.jpg";
-import womensDay2 from "../../../assets/images_events/womens_day2.jpg";
-import womensDay3 from "../../../assets/images_events/womens_day3.jpg";
-import runwalk1 from "../../../assets/images_events/run_walk1.jpg";
-import runwalk2 from "../../../assets/images_events/run_walk2.jpg";
-import runwalk3 from "../../../assets/images_events/run_walk3.jpg";
-import movie_screening1 from "../../../assets/images_events/movie1.jpg";
-import movie_screening2 from "../../../assets/images_events/movie2.jpg";
-import movie_screening3 from "../../../assets/images_events/movie3.jpg";
-import homepage1 from "../../../assets/images/movie6.jpg";
-import homepage2 from "../../../assets/images/movie5.jpg";
-import homepage3 from "../../../assets/images/talk4.jpg";
-import homepage4 from "../../../assets/images/talk5.jpg";
-import homepage5 from "../../../assets/images/talk6.jpg";
-import homepage6 from "../../../assets/images/survey_img/2.png";
-import homepage7 from "../../../assets/images/survey_img/3.png";
+import womensDay1 from "../../../../public/assets/images_events/womens_day1.jpg";
+import womensDay2 from "../../../../public/assets/images_events/womens_day2.jpg";
+import womensDay3 from "../../../../public/assets/images_events/womens_day3.jpg";
+import runwalk1 from "../../../../public/assets/images_events/run_walk1.jpg";
+import runwalk2 from "../../../../public/assets/images_events/run_walk2.jpg";
+import runwalk3 from "../../../../public/assets/images_events/run_walk3.jpg";
+import movie_screening1 from "../../../../public/assets/images_events/movie1.jpg";
+import movie_screening2 from "../../../../public/assets/images_events/movie2.jpg";
+import movie_screening3 from "../../../../public/assets/images_events/movie3.jpg";
+import homepage1 from "../../../../public/assets/images/movie6.jpg";
+import homepage2 from "../../../../public/assets/images/movie5.jpg";
+import homepage3 from "../../../../public/assets/images/talk4.jpg";
+import homepage4 from "../../../../public/assets/images/talk5.jpg";
+import homepage5 from "../../../../public/assets/images/talk6.jpg";
+import homepage6 from "../../../../public/assets/images/survey_img/2.png";
+import homepage7 from "../../../../public/assets/images/survey_img/3.png";
 import './HomeHero.css'
 
 const HomeHero = () => {

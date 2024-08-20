@@ -35,14 +35,14 @@
 
 import React from 'react';
 import '../css/Survey.css';
-import img1 from '../assets/images/survey_img/2.png'
-import img3 from '../assets/images/survey_img/3.png'
-import img4 from '../assets/images/survey_img/4.png'
-import img5 from '../assets/images/survey_img/5.png'
-import img6 from '../assets/images/survey_img/6.png'
-import img7 from '../assets/images/survey_img/7.png'
-import img8 from '../assets/images/survey_img/8.png'
-import img9 from '../assets/images/survey_img/9.png'
+import img1 from '../../public/assets/images/survey_img/2.png'
+import img3 from '../../public/assets/images/survey_img/3.png'
+import img4 from '../../public/assets/images/survey_img/4.png'
+import img5 from '../../public/assets/images/survey_img/5.png'
+import img6 from '../../public/assets/images/survey_img/6.png'
+import img7 from '../../public/assets/images/survey_img/7.png'
+import img8 from '../../public/assets/images/survey_img/8.png'
+import img9 from '../../public/assets/images/survey_img/9.png'
 const GridLayout = () => {
   return (
     <div className="container1">

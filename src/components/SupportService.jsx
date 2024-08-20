@@ -2,7 +2,8 @@ import React from "react";
 import '../css/support.css';
 import VideoSection from "./VideoSection";
 import '../css/SupportSection.css'
-import icc from '../assets/images/icc.png'
+import icc from '../../public/assets/images/icc.png'
+// import icc from '../assets/images/icc.png'
 const SupportService = () => {
     return (
       <>
